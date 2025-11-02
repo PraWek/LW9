@@ -1,0 +1,4 @@
+﻿AAPL
+AMZN
+NVDA
+META
